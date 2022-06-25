@@ -4,32 +4,23 @@
     </a>
 </div>
 
-[SOFTSPIDERS](https://github.com/softspiders/softspiders)
-
 # tailwind-nano
 
 Tailwind CSS minimalistic starter
 
 ## Feature tags
 
-- cra
-- ie11
+- css
 - starter
-- styled-components
+- tailwind
 - template
-- theme-provider
 - typescript
 
 ---
-## Direct ancestors
-[**-styled-components, theme-provider**](https://github.com/softspiders/cra-ts-ie11-starter)
-
-## Direct descendants
-[**+formik**](https://github.com/softspiders/cra-formik-styledcomponents-ts-starter)
 
 ## Author
 
-[Dmitrii](https://github.com/dmitrii92)
+[Alexander Lapygin](https://github.com/AlexanderLapygin) <<alexanderlapygin@gmail.com>>
 
 ---
 
