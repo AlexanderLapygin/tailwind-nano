@@ -1,8 +1,14 @@
+<div align="center">
+    <a href="https://github.com/softspiders/softspiders">
+      <img src="./images/sslogo-from-github-20.png"/>
+    </a>
+</div>
+
 [SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
-# styledcomponents-ts-starter
+# tailwind-nano
 
-Minimalistic _React_ application in _TypeScript_ with _styled-components_.
+Tailwind CSS minimalistic starter
 
 ## Feature tags
 
@@ -74,6 +80,12 @@ To learn more about styled-components see [official documentation](https://style
 
 ---
 
+---
+
 ## License
 
 Licensed under the [MIT license](./LICENSE).
+
+<div align="center">
+    <a href="https://github.com/softspiders/softspiders">SOFTSPIDERS</a>
+</div>
